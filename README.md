@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Frontend Developer growing in this sector throw my self effort and dedication
+#### I'm a Frontend Developer growing in this sector through my self effort and dedication
 
 ##### BIO
 

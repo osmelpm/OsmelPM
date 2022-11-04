@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-#### I'm a Web Developer growing in this sector through my self effort and dedication
+#### I'm a FullStack Web Developer growing in this sector through my self effort and dedication
 
 ##### BIO
 
-- 🏢 I'm currently working as **Backend Developer** at **AGILE SOLUTIONS**
-- ⚙️ These are my hard skills: `HTML`, `CSS`, `JS`, `TS`, `REACTJS`, `BOOTSTRAP`, `MATERIALUI`, `JEST`, `GRAPHQL` and `APOLLO (CLIENT & SERVER)`
+- 🏢 I'm currently working as **FullStack Web Developer** at **AGILE SOLUTIONS**
+- ⚙️ These are my hard skills: `HTML`, `CSS`, `JS`, `TS`, `REACTJS`, `NODEJS`, `BOOTSTRAP`, `MATERIALUI`, `JEST`, `GRAPHQL` and `APOLLO (CLIENT & SERVER)`
 - 🌱 Learning more about **Web Development**
 - 📫 You can reach me on 👇
 - [twitter.com/osmelpm95](https://twitter.com/osmelpm95) 

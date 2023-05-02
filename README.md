@@ -13,4 +13,3 @@
 - 📫 You can reach me on 👇
 - [www.linkedin.com/in/osmelpm](https://www.linkedin.com/in/osmelpm)
 - [twitter.com/osmelpm95](https://twitter.com/osmelpm95) 
-

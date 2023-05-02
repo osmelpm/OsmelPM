@@ -6,7 +6,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working as **FullStack Web Developer** at **AGILE SOLUTIONS**
+- 🏢 I'm currently working as **Backend Developer** at **BIT SOLUTIONS**
 - ⚙️ These are my hard skills: `HTML`, `CSS`, `JS`, `TS`, `REACTJS`, `NODEJS`, `BOOTSTRAP`, `MATERIALUI`, `JEST`, `GRAPHQL` and `APOLLO (CLIENT & SERVER)`
 - 🌱 Learning more about **Web Development**
 

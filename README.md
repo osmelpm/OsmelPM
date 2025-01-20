@@ -1,4 +1,4 @@
-![banner](https://github.com/osmelpm/OsmelPM/blob/master/baner 4.png)
+![banner](https://github.com/osmelpm/OsmelPM/blob/master/baner_4.png)
 
 ### Hi there 👋
 

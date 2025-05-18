@@ -6,10 +6,9 @@
 
 ##### BIO
 
-- 🏢 I'm currently working as **Backend Developer** at **BIT SOLUTIONS**
-- ⚙️ These are my hard skills: `HTML`, `CSS`, `JS`, `TS`, `REACTJS`, `NODEJS`, `BOOTSTRAP`, `MATERIALUI`, `JEST`, `GRAPHQL` and `APOLLO (CLIENT & SERVER)`
-- 🌱 Learning more about **Web Development**
+- 🏢 I'm currently working as a **Backend NodeJs Developer** at **Tata Consultancy Services**.
+- ⚙️ These are my skills: `HTML`, `CSS`, `JS`, `TS`, `REACTJS`, `NODEJS`, `BOOTSTRAP`, `MATERIALUI`, `JEST`.
+- 🌱 Learning more about **Web Development**.
 
 - 📫 You can reach me on 👇
 - [www.linkedin.com/in/osmelpm](https://www.linkedin.com/in/osmelpm)
-- [twitter.com/osmelpm95](https://twitter.com/osmelpm95) 
